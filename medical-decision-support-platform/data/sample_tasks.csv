@@ -1,0 +1,6 @@
+task_id,task_name,category,arrival_time,burst_time,priority,status
+1,Lab Report Processing,Lab Report Processing,0,5,Medium,New
+2,Medical Image Review,Medical Image Review,1,3,High,New
+3,Test Result Analysis,Test Result Analysis,2,4,Low,New
+4,Doctor Request,Doctor Request,3,2,High,New
+5,Routine Report Review,Lab Report Processing,4,3,Medium,New
